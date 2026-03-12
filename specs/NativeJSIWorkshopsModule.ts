@@ -1,4 +1,4 @@
-import { TurboModule, TurboModuleRegistry } from 'react-native';
+import {TurboModule, TurboModuleRegistry} from 'react-native';
 
 interface EmptyObject {}
 
